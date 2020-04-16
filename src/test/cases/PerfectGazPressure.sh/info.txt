@@ -1,0 +1,11 @@
+#Thu Apr 16 18:14:48 CEST 2020
+state=running
+start=18\:14\:47
+code=Bash
+info=Results parsed\: {1\=1.0, pressure\=2494.2000}
+output={pressure\=2494.2000}
+input.No\ name=No value
+duration=0
+end=
+calc=localhost\:41711
+output.pressure=2494.2000
