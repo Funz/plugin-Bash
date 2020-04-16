@@ -1,0 +1,11 @@
+#Thu Apr 16 15:42:54 CEST 2020
+state=running
+start=15\:42\:53
+code=Bash
+info=Results parsed\: {1\=1.0, z\=4.5}
+output={z\=4.5}
+input.No\ name=No value
+duration=0
+end=
+calc=localhost\:41597
+output.z=4.5

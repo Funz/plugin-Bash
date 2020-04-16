@@ -1,0 +1,1 @@
+tail: impossible d'ouvrir '*.out' en lecture: Aucun fichier ou dossier de ce type

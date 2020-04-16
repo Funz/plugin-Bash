@@ -1,0 +1,17 @@
+information=Bash plugin made by IRSN/Yann Richet\nLesser General Public License
+
+variableStartSymbol=%
+variableLimit=(...)
+formulaStartSymbol=@
+formulaLimit={...}
+commentLineChar=#
+
+datasetFilter=contains("(.*)","#!/bin/bash")
+
+outputlist=`grep("(.*)sh","echo(.*)=")>>before("=")>>after("'")>>trim()`
+
+#output.echo.if=true
+#output.echo.get=filecat("out(.*)txt") >> split("=") >> get(0) >> trim() >> asNumeric()
+#output.echo.default=1.0
+
+output.???.get=lines("out.txt") >> filter("^???=(.*)") >> after("=")
