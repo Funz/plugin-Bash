@@ -1,6 +1,6 @@
 #!/bin/bash
 
-bash --restricted $* & #containerize the created bash shell
+bash --restricted *.sh & #containerize the created bash shell
 PID_BASH=$!
 echo $PID_BASH >> PID #this will allow Funz to kill process if needed
 
