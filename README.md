@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Funz/plugin-Bash.png)](https://travis-ci.org/Funz/plugin-Bash)
+[![.github/workflows/ant.yml](https://github.com/Funz/plugin-Bash/actions/workflows/ant.yml/badge.svg)](https://github.com/Funz/plugin-Bash/actions/workflows/ant.yml)
 
 # Funz plugin: Bash
 
