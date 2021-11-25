@@ -1,0 +1,42 @@
+          Funz 1.9 <build 04/09/2019 13:37>
+            Funz models (port 19001): Bash
+            Funz designs (engine R (class org.math.R.R2jsSession)): 
+            Creating RunShell for code Bash with input files [mult.sh]
+           Loading plugin org.funz.ioplugin.BasicIOPlugin plugin from <Bash>
+  input files: mult.sh
+  default output: 
+  syntax:  comment = #  variable = %(...)  formula  = @{...}
+
+          Using model Bash by plugin org.funz.ioplugin.BasicIOPlugin plugin from <Bash>
+  input files: mult.sh
+  default output: 
+  syntax:  comment = #  variable = %(...)  formula  = @{...}
+
+          Funz 1.9 <build 04/09/2019 13:37>
+            Funz models (port 19001): Bash
+            Funz designs (engine R (class org.math.R.R2jsSession)): 
+            Creating RunShell for code Bash with input files [mult.sh,Run.log]
+           Loading plugin org.funz.ioplugin.BasicIOPlugin plugin from <Bash>
+  input files: mult.sh,Run.log
+  default output: 
+  syntax:  comment = #  variable = %(...)  formula  = @{...}
+
+          Using model Bash by plugin org.funz.ioplugin.BasicIOPlugin plugin from <Bash>
+  input files: mult.sh,Run.log
+  default output: 
+  syntax:  comment = #  variable = %(...)  formula  = @{...}
+
+          Funz 1.9 <build 04/09/2019 13:37>
+            Funz models (port 19001): Bash
+            Funz designs (engine R (class org.math.R.R2jsSession)): 
+            Creating RunShell for code Bash with input files [mult.sh,Run.log]
+           Loading plugin org.funz.ioplugin.BasicIOPlugin plugin from <Bash>
+  input files: mult.sh,Run.log
+  default output: 
+  syntax:  comment = #  variable = %(...)  formula  = @{...}
+
+          Using model Bash by plugin org.funz.ioplugin.BasicIOPlugin plugin from <Bash>
+  input files: mult.sh,Run.log
+  default output: 
+  syntax:  comment = #  variable = %(...)  formula  = @{...}
+
